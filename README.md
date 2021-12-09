@@ -7,7 +7,7 @@ Tutorial project made in Rust
 #### On Mac/Linux
 Open a terminal and enter the following command:
 
-`$ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh`
+`curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh`
 
 If the install is successful, the following line will appear:
 
